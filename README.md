@@ -16,7 +16,7 @@
 
 有任何电脑选购、使用方面的问题都可以加入义修队qq群 496531243 询问哟\(＾Ｕ＾\)ノ~ＹＯ
 
-> 点击链接可唤起qq，直接加群：[https://jq.qq.com/?\_wv=1027&k=4F9fClD](/点击链接加入群【17义修小组|ω･`%29】：https://jq.qq.com/?_wv=1027&k=4F9fClD)
+> 点击链接可唤起qq，直接加群：[https://jq.qq.com/?\_wv=1027&k=4F9fClD](https://jq.qq.com/?_wv=1027&k=4F9fClD)
 
 
 
