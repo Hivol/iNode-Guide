@@ -12,7 +12,7 @@
 
 ---
 
-更多信息请访问义修队官方网站：[http://www.swufecomputer.com](http://www.swufecomputer.com)
+~~更多信息请访问义修队官方网站：~~[~~http://www.swufecomputer.com~~](http://www.swufecomputer.com)（暂无法访问）
 
 有任何电脑选购、使用方面的问题都可以加入义修队qq群 496531243 询问哟\(＾Ｕ＾\)ノ~ＹＯ
 
