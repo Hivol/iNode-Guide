@@ -12,11 +12,11 @@
 
 ---
 
-~~更多信息请访问义修队官方网站：~~[~~http://www.swufecomputer.com~~](http://www.swufecomputer.com)（暂无法访问）
+更多信息请访问义修队官方网站：[https://github.com/Hivol/YixiuTeam](https://github.com/Hivol/YixiuTeam)
 
-有任何电脑选购、使用方面的问题都可以加入义修队qq群 496531243 询问哟\(＾Ｕ＾\)ノ~ＹＯ
+有任何电脑选购、使用方面的问题都可以加入义修队 qq 群 747584923 询问哟 \(＾Ｕ＾\)ノ~ＹＯ
 
-> 点击链接可唤起qq，直接加群：https://jq.qq.com/?\_wv=1027&k=5gERXSz
+> 点击链接可唤起qq，直接加群：[https://jq.qq.com/?\_wv=1027&k=5Cua4xV](https://jq.qq.com/?_wv=1027&k=5gERXSz)
 
 
 

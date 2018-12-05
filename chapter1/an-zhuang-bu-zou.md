@@ -7,39 +7,27 @@
 
 > 建议使用 7.0 版本
 
-
-
 ## 2. 单击右键——以管理员身份运行安装该客户端
 
 > 若出现用户帐户控制，请选择“是”。
-
-
 
 ## 3. 出现以下界面，选择“下一步”
 
 ![](http://info.swufe.edu.cn/infohelp/index.files/image004.jpg)
 
-
-
 ## 4. 选择“我接受许可证协议中的条款”
 
 ![](http://info.swufe.edu.cn/infohelp/index.files/image006.jpg)
 
-
-
 ## 5. 选择安装路径，如不需更改安装路径，直接点击“下一步”
 
 .![](http://info.swufe.edu.cn/infohelp/index.files/image008.jpg)
-
-
 
 ## 6. 开始安装过程
 
 > **安装时建议先退出360安全卫士等杀毒软件，否则可能发生安装失败等问题。**
 
 ![](http://info.swufe.edu.cn/infohelp/index.files/image010.jpg)
-
-
 
 ## 7. 安装完成后请重启电脑
 

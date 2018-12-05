@@ -2,6 +2,8 @@
 
 西南财经大学无线网几乎覆盖了校内所有区域。公共区域覆盖了iSwufe信号，寝室区域覆盖了ChinaNet-679和ChinaNet-SWUFE信号。
 
+
+
 ## 服务对象
 
 在校学生，教职工，临时上网人员，访客
@@ -33,12 +35,6 @@
 该信号覆盖在办公区和公共区域。
 
 ![](http://info.swufe.edu.cn/services/web/images/iswufe.png)
-
-
-
-
-
-
 
 > 2017.8.19 来自西财信息与教育技术中心
 >
